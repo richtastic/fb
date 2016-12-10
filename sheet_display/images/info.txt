@@ -1,0 +1,8 @@
+
+
+inkscape test_eps.eps -l out.svg
+
+
+
+
+
