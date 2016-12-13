@@ -1,6 +1,27 @@
 
+FLASH:
+- break apart entire page
+- clip against page rectangle
+- File > Export > frame_##.eps
 
+
+INKSCAPE: (sudo apt-get install inkscape)
 inkscape test_eps.eps -l out.svg
+inkscape /media/sf_zirbr001/dev/extRepos/fb/sheet_display/pages/page_02.eps  -l  /media/sf_zirbr001/dev/extRepos/fb/sheet_display/pages/page_02.svg
+inkscape -z -e test.png -w 1024 -h 1024 test.svg
+inkscape -z -e /media/sf_zirbr001/dev/extRepos/fb/sheet_display/pages/page_02.png    /media/sf_zirbr001/dev/extRepos/fb/sheet_display/pages/page_02.svg
+
+BLENDER:
+- File > Import > SVG > frame_##.svg
+S => SCALE X 1000
+
+CTRL+L -> copy modifier
+ALT+J -> join
+ALT+C -> to mesh
+	+MODIFIER -> SOLIDIFY
+	+EXTEND -> some depth
+S => SCALE ~ 130
+
 
 
 
