@@ -8,11 +8,12 @@ FLASH:
 
 ONLINE CONVERT:
 http://image.online-convert.com/convert-to-svg
+> frame_##.svg
 
 BLENDER:
 - File > Import > SVG > frame_##.svg
-S => SCALE x100
-ALT+C -> to mesh
+S => SCALE x26 | x32.5 | ?
+ALT+C -> path to mesh
 ALT+J -> join
 - remove doubles (0.0001)
 - EXTEND -> some depth
