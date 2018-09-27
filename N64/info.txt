@@ -1,0 +1,20 @@
+# N64
+case holder
+
+
+## dimensions:
+interrior(over-estimate):
+21.0" x 13.75"
+
+
+top level height:
+3.0"
+
+bottom level height: 
+4.0"
+
+center divider:
+~1.0" (compressed)
+
+
+
