@@ -1,0 +1,119 @@
+
+
+plan for ~ 1" spacing between pieces
+
+
+
+couch padding layers:
+- rubber base stretch layer support for non-board locations [webbing] (rubber band)
+	- pad / covering (thin base foam)
+		- 1" dense foam (high resiliance / high rebound) [compressed cotton?]
+			- another compressing covering (net / netting / scrim)?
+				- exterrior fabric (high density)
+- bottomcloth - dustcover
+
+- want to 'sew' foam/cotton onto board so it doesn't slide down
+- black interrior felt-ish covering
+- velcrow for hiding ends [also sew on]
+
+
+materials:
+- glue
+- large-grometted screws
+- pull things tight with rachet?
+- gromets for stretching?
+
+- 4-6" bolts + nuts + washers x ~20
+
+
+
+
+
+
+Polyester
+
+
+
+
+FABRICS:
+Linen
+	- Made from flax, linen is an extremely strong natural fiber
+	- soil resistant
+	- wrinkles
+Cotton
+	- wrinkles
+	- soils
+Wool
+	- A natural fiber that comes from animal hair
+	- durable
+	- scratchy
+Leather
+	- Made from animal hide, leather is durable and easy to clean. ...
+	- soil resistant, easy clean
+	- sticky
+Polyester
+	- can crack in variable temps
+	- soil resitant
+	- wrinkle resistant
+	- strong
+Velvet
+	- soft
+	- difficult to clean
+Microfiber
+	- knit polyester?
+	- 
+Rayon
+	- soft
+	- wrinkles
+	- scratches
+Sunbrella
+	- acrylic
+	- outdoor
+	- harder
+Felt
+	- 
+Suede
+	- 
+Chenille
+	- soft
+	- stretchy
+Jute
+	- 
+Acrylic
+	- some allergies
+	- 
+Olefin
+	- sunlight makes brittle
+Nylon
+	- durable
+	- low wrinklin
+Acetate
+	- pilling [pill shaver]
+	- wrinkles
+	- scratches
+Fleece
+	- 
+Crypton
+	- stain resistant
+..
+https://www.homestratosphere.com/types-of-upholstery-fabric/
+
+
+=> crypton
+=> high linen or polyester [durable], low cotton [soft/stretchy] blend
+
+...
+
+
+cost:
+
+~100 2x4s
+~50 boards
+~100 accessories [nuts bolts glue velcro]
+~100 padding
+~100 interrior layers
+~100 fabric
+-----
+550~600
+
+...
