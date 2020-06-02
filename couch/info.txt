@@ -28,11 +28,13 @@ materials:
 
 
 
+CHOSEN FABRICS:
 
+***Linen/Polyester blend
+**Polyester
+*Linen -- heavyweight
 
-Polyester
-
-
+https://blog.stylewe.com/pros-cons-of-different-fabric/
 
 
 FABRICS:
@@ -95,6 +97,7 @@ Fleece
 	- 
 Crypton
 	- stain resistant
+Spandex (Lycra)
 ..
 https://www.homestratosphere.com/types-of-upholstery-fabric/
 
@@ -107,13 +110,223 @@ https://www.homestratosphere.com/types-of-upholstery-fabric/
 
 cost:
 
-~100 2x4s
-~50 boards
-~100 accessories [nuts bolts glue velcro]
-~100 padding
-~100 interrior layers
-~100 fabric
+~100 2x4s - ~$75
+~50 boards - $0 [already have]
+~100 accessories [nuts, bolts, glue, velcro, magnets, webbing, strapping, ]
+~100 padding -- $75
+~100 interrior layers - $80
+~50 felt/lining
+~100 fabric ---- 200 ?
 -----
 550~600
 
 ...
+
+
+
+OTHER FEATURES:
+- internal extension cord
+
+- how to cup holders ?
+	=> fold out ?
+
+
+
+
+
+
+CUSHIONS
+
+PADDING (batting)
+
+FABRIC
+
+600x600 denier polyester 62" wide
+https://www.amazon.com/gp/product/B07KB95D2F/ref=ox_sc_saved_title_10?smid=ATVPDKIKX0DER&th=1
+
+polyester
+https://www.amazon.com/Richland-Textiles-Ponte-Double-Fabric/dp/B013ILCERY?ref_=ast_bbp_dp&th=1&psc=1
+https://www.amazon.com/Ben-Textiles-Inc-Polyester-Lining/dp/B00MEWUB1U/ref=sr_1_4?dchild=1&keywords=red+polyester+fabric&qid=1585599607&sr=8-4
+
+
+linen:
+https://www.amazon.com/Robert-Kaufman-Sunshine-Fabric-Sunkissed/dp/B01G908DXA/ref=sr_1_4?dchild=1&keywords=linen%2Bfabric&qid=1585598402&s=arts-crafts&sr=1-4&th=1
+
+
+
+felt/interrior
+
+
+
+x velcro
+
+x stretch-bands - webbing
+
+x lids cushion
+
+x exterrior padding [thick and thin]
+
+x exterior batting
+
+x burlap
+
+- ...
+
+- ...
+
+surface area: ~ 50 square feet
+backing-front: ~ 16
+1/4" = 15-20 sq ft
+1/8" = 35-40 sq ft
+
+72" = 6 ft
+
+6 x 10 = 60
+
+
+
+AREAS WITH 1/4":
+back : 17.5
+sides : < 7.5
+front-base : 6
+arm-tops: < 2
+>>> 33 minimum
+	35-40
+AREAS WITH 1/2":
+front-top : < 12
+inside arms : < 4
+>>> 16 minimum
+	20-25
+
+6x4 = 24
+6x6 = 36 => 1/2"
+6x9 = 54 -- only option for 1/4"
+8x8 = 48 => 1/4"
+
+
+
+
+
+batting [light fluffy thin] - compress to 1/8th inch
+
+felt padding - dense - 1/4th inch
+
+
+
+
+
+
+25/4/6 = 1.041
+100/10/14 = 0.71
+
+
+
+PROGESS:
+frame - 25%
+felt - 25%
+padding - 25%
+fabric - 25%
+
+
+
+
+STEPS:
+
+
+x CUT BACK PIECES
+	- plan for 1/8th larger on both sides => 1/4 total
+x ASSEMBLE BACK FRAME
+
+
+- add physical supports
+	- corner triangles
+	- arms
+		- corner supports on thin ends
+		- middle-beam on interrior
+- add plating supports
+	- base interrior bottom support
+
+
+
+- CUT SPEED HOLES
+	- find places that don't need so much support & cut holes
+	- router smaller areas to thin out
+- inset using router in places:
+	- bottom 
+
+
+- ATTACH BACK TO BASE/ARMS => need to double up
+	- add 1/8th padding (insert temporary nibs between arms and base)
+	- mount points / bolts
+
+
+- SAND
+	- make all edges/junctions smooth
+	- sand base to be level with ground
+
+
+- CUT PLATING PIECES
+	- base:
+		2 on bottom
+		2 on ends left/right
+		2 on front/back
+	- arm x 2:
+		- base (+ route)
+		- L/R/R/F
+		- cover
+
+=>>>>>>>>>>>>>>>>> BRING INSIDE
+
+- mount fabric support
+	- screw in webbing
+	- screw in burlap
+
+- ADHERE FELT BASE
+	- interrior
+	- base top
+	- base lids
+
+- MOUNT ELECTRICAL
+	- 3D print supports
+	- mount power outlets
+
+- MAGNENT HOLES
+	- arms x2
+		- top
+		- bot
+	- base
+	- glue in 
+
+- PADDING
+	- cover entire exterrior of couch with base padding
+		- base
+		- arms
+		- back
+		- human-interface with 1/4th inch 
+		- outside with 1/8th inch
+	- cover exterrior with batting
+
+- FABRIC
+	- cover/stretch fabric along exterior
+	- glue/compress edges/corners
+	- screw/gromit at other points?
+
+
+- ADHERE FELT ARMS
+	- arms interrior
+
+
+- cover bottom base WITH SHEET
+	- line bottom with velcrow
+
+
+
+- CREATE FEET BLOCKS
+	- 1-2 inches delta length
+
+
+
+
+
+
+
