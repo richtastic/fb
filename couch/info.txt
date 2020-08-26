@@ -325,7 +325,139 @@ x ASSEMBLE BACK FRAME
 	- 1-2 inches delta length
 
 
+---------------------- STEPS:
+- re-screw on burlap w/ glue/spray
 
+>> indoors
+
+- base
+	- top: thin padding on top surface only 
+	- front: padding glue/tack
+	- top: felt-cover : glue + sew
+	- interrior lining
+- back:
+	- padding along back, sides, front
+- arms:
+	- padding along external sides
+- lids:
+	- padding along external sides
+	- felt along interrior
+- align bolts on all pieces
+- magnets for lids
+- back:
+	- fabric
+- base:
+	- fabric
+	- bottom lining
+- arms:
+	- fabric
+
+- feed
+
+
+
+FABRIC::::::::::::::::::::::::::::;
+$25 ~ $50 / yd
+
+FABRIC SOURCES:
+
+JOANNE:
+
+https://www.joann.com/crypton-upholstery-fabric-54in-clooney-berry/14444038.html
+Crypton Upholstery Fabric 54" Clooney Berry
+$42 / yd
+
+https://www.joann.com/crypton-upholstery-fabric-54in-clooney-pinot-noir/14444087.html
+Crypton Upholstery Fabric 54" Clooney Pinot Noir
+$42 / yd
+
+https://www.joann.com/home-decor-solid-fabric-fabricut-antique-satin--valentine/14440200.html
+Eaton Square Lightweight Decor Fabric 54" Antique Satin & Valentine
+$21 / yd
+
+https://www.joann.com/home-decor-fabric--crypton-suede-merlot/11477767.html
+Crypton Upholstery Decor Fabric 54" Suede Merlot
+$41 / yd
+
+
+https://www.joann.com/outdoor-fabric-sunbrella-60in-logo-red/12202354.html
+Sunbrella Outdoor Fabric 60" Logo Red
+$70 / yd
+
+THREADING:
+
+
+
+
+
+
+$24 / yd now:!!!
+
+https://www.joann.com/crypton-upholstery-fabric-54in-clooney-berry/14444038.html
+
+
+
+
+
+back:
+back: 60 x 41
+front: 60 x 72
+sides: 6.5 x 41
+top: 60 x 6.5
+
+
+base:
+front: 48.5 x 14
+
+side x 2:
+outside: 20 x 26
+front: 6 x 26
+inside: 12 x 20
+
+arm-top x 2:
+3.5 x 6 x 2
+3.5 x 20 x 2
+6 x 20
+
+cushions x 2:
+top/bot: 24 x 20 x 2
+side a: 3 x 20 x 2
+side b: 3 x 24 x 2
+
+
+
+
+total square footage:
+(60*41)+(60*72)+(6.5*41)+(6.5*60) + (48.5*14) + ((20*26)+(6*26)+(20*12))*2 + ((3.5*6*2)+(3.5*20*2)+(6*20))*2 + ((24*20*2)+(3*20*2)+(3*24*2))*2
+= 13000
+
+13000 / (12*12) = 90.25
+90.25 / (3*3) = 10.0
+with error .. odd sizes: 12 sq yd
+
+
+
+13000 / (54*3*12) = 6.6 -> 8-10 yards
+
+
+HIDING SEAMS:
+	...
+
+CUSHON + ZIPPER
+https://www.youtube.com/watch?v=mLqwPmBVhGc
+https://www.youtube.com/watch?v=mMm_irFrbHQ
+https://www.youtube.com/watch?v=0W01lFWz90s
+
+
+SEWING MACHINE:
+
+https://www.brother-usa.com/home/sewing-embroidery
+
+
+
+
+
+...
 
 
 
